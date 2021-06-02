@@ -19,8 +19,10 @@ This application have two seperate part :
 - Likes & Comments
 - Follows & Unfollows
 - Signin & Sigbup
-- Forgot Password by sending to email account
+- Forgot Password by sending resets password link to email account 
 
 ## **Thanks You**
 
-https://telegram.me/HoeuSophanorin
+## Contact 
+
+ - [Telegrame](https://telegram.me/HoeuSophanorin)
