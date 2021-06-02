@@ -25,8 +25,6 @@ This application have two seperate part :
 - Signin & Sigbup
 - Forgot Password by sending resets password link to email account 
 
-## **Thanks You**
-
 ## Contact 
 
  - [Telegrame](https://telegram.me/HoeuSophanorin)
